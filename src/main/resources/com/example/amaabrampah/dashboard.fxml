@@ -6,7 +6,7 @@
 <?import javafx.scene.text.Text?>
 
 <AnchorPane xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
-            fx:controller="com.example.senadzidzor.DashboardController"
+            fx:controller="com.example.amaabrampah.DashboardController"
             prefHeight="400.0" prefWidth="600.0">
 
     <Text text="Welcome to Your Dashboard!" layoutX="150" layoutY="50">

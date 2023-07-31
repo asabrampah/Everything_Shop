@@ -1,4 +1,4 @@
-package com.example.senadzidzor;
+package com.example.amaabrampah;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
@@ -72,7 +72,7 @@ public class VendorControllerManagement {
         try {
             String url = "jdbc:mysql://localhost:3306/inventory";
             String username = "root";
-            String password = "password";
+            String password = "Sakyiwah17%";
             connection = DriverManager.getConnection(url, username, password);
             System.out.println("Connected to the database");
         } catch (SQLException e) {

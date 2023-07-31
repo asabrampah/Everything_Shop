@@ -1,4 +1,4 @@
-package com.example.senadzidzor;
+package com.example.amaabrampah;
 
 public class Vendor {
     private int id;

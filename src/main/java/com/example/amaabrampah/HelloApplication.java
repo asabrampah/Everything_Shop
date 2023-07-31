@@ -1,4 +1,4 @@
-package com.example.senadzidzor;
+package com.example.amaabrampah;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -19,6 +19,6 @@ public class HelloApplication extends Application {
 
     public static void main(String[] args) {
         launch();
-        //Sena Dzidzor Foli-Mensah ID:10920797
+        //Ama Sakyiwah Abrampah ID:10896568
     }
 }

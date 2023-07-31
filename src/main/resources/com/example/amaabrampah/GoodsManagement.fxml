@@ -15,7 +15,7 @@
 <?import javafx.scene.control.ChoiceBox?>
 <?import javafx.collections.FXCollections?>
 <?import java.lang.String?>
-<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.senadzidzor.GoodsControllerManagement">
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.amaabrampah.GoodsControllerManagement">
 
     <VBox alignment="CENTER" prefHeight="401.0" prefWidth="414.0" spacing="10">
         <Label maxWidth="-Infinity" text="Goods Management" />

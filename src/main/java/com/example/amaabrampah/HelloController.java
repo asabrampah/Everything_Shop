@@ -1,4 +1,4 @@
-package com.example.senadzidzor;
+package com.example.amaabrampah;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

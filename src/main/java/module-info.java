@@ -6,6 +6,6 @@ module com.example.senadzidzor {
     requires org.kordamp.bootstrapfx.core;
     requires java.sql;
 
-    opens com.example.senadzidzor to javafx.fxml;
-    exports com.example.senadzidzor;
+    opens com.example.amaabrampah to javafx.fxml;
+    exports com.example.amaabrampah;
 }

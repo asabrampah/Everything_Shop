@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8fb18e6-afd2-48c9-86b5-b0d28ea94d67" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Proj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/senadzidzor/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/amaabrampah/Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/senadzidzor/BillManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/amaabrampah/BillManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/senadzidzor/DashboardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/amaabrampah/DashboardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/senadzidzor/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/amaabrampah/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/senadzidzor/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/amaabrampah/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/senadzidzor/GoodsControllerManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/amaabrampah/GoodsControllerManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/senadzidzor/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/amaabrampah/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/senadzidzor/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/amaabrampah/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/senadzidzor/Vendor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/amaabrampah/Vendor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/senadzidzor/VendorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/amaabrampah/VendorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/senadzidzor/VendorControllerManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/amaabrampah/VendorControllerManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/senadzidzor/BillManagement.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/amaabrampah/BillManagement.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/senadzidzor/GoodsManagement.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/amaabrampah/GoodsManagement.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/senadzidzor/ReportManagement.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/amaabrampah/ReportManagement.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/senadzidzor/VendorManagement.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/amaabrampah/VendorManagement.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/senadzidzor/dashboard.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/amaabrampah/dashboard.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/senadzidzor/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/amaabrampah/hello-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2TKvHoihsyEtNj7dOyDAVSfjN09" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8fb18e6-afd2-48c9-86b5-b0d28ea94d67" name="Changes" comment="" />
+      <created>1690804502973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690804502973</updated>
+    </task>
+    <servers />
+  </component>
+</project>
